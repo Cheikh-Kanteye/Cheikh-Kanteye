@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cheikh-Kanteye
 - 👀 I’m interested in mobile développement 
 - 🌱 I’m currently learning react-native and typescript 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on react native project 
 - 📫 How to reach me cheikhkanteye.contact@gmail.com
 
 <!---
