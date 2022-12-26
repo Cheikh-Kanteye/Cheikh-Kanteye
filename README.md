@@ -1,5 +1,5 @@
 ## 💫 About Me:
-- 👋 Hi, I’m @Cheikh-Kanteye AKA # Chika
+- 👋 Hi, I’m @Cheikh-Kanteye AKA Chika
 - 👀 I’m interested in mobile développement 
 - 🌱 I’m currently learning react-native and typescript 
 - 💞️ I’m looking to collaborate on react native project 
