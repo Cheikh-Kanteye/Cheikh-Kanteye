@@ -1,7 +1,8 @@
 ## 💫 About Me:
 - 👋 Hi, I’m @Cheikh-Kanteye AKA Chika
 - 👀 I’m interested in mobile développement 
-- 🌱 I’m currently learning react-native and typescript 
+- 🌱 I’m a react/react-native and typescript developer
+- 🏆 Certified in Java Development by FORCE N Senegal, with skills in Spring Boot and Angular.
 - 💞️ I’m looking to collaborate on react native project 
 - 📫 How to reach me cheikhkanteye.contact@gmail.com
 
